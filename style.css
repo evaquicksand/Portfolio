@@ -1,0 +1,18 @@
+body {
+	background-image: url("free3.jpg");
+	background-repeat: no-repeat;
+	background-position: center; 
+	background-attachment: fixed;
+
+}
+p {
+	float: right;
+	margin-right: 10%;
+	margin-top: 3%;
+	color: white;
+	font-size: 65px;
+	font-style: oblique;
+	text-shadow: 3px 2px #27333a;
+
+}
+
